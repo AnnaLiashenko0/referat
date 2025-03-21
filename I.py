@@ -12,6 +12,11 @@ class PrinterScanner:
 # Клас PrinterScanner реалізує всі методи для принтера, сканера і факсу
 
 
+
+
+
+
+
 Приклад застосування в Python:
 
 class Printer:

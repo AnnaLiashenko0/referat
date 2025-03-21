@@ -9,6 +9,13 @@ class UserManager:
     def send_welcome_email(self, user):
         print(f"Sending welcome email to {user}")
 
+
+
+
+
+
+
+
  Приклад застосування в Python:
 class Order:
     def __init__(self, id, amount):

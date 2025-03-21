@@ -20,6 +20,8 @@ class Circle:
 
 
 
+
+
 Приклад застосування в Python:
 class Shape:
     def area(self):
