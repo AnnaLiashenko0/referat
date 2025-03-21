@@ -17,6 +17,7 @@ class Service:
 
 
 
+
 Приклад застосування в Python:
 class Database:
     def connect(self):
